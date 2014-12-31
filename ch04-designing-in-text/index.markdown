@@ -1,4 +1,4 @@
-# Responsive Design Workflow 
+# Responsive Design Workflow
 
 by Stephen Hay
 
@@ -6,7 +6,7 @@ In our industry, everything changes quickly, usually for the better. We have mor
 
 Responsive Design Workflow explores:
 
-- A content-based approach to design workflow that's grounded in our multiplatform reality, not fixed-width Photoshop comps and overproduced wireframes. 
+- A content-based approach to design workflow that's grounded in our multiplatform reality, not fixed-width Photoshop comps and overproduced wireframes.
 - How to avoid being surprised by the realities of multiplatform websites when practicing responsive web design.
 - How to better manage client expectations and development requirements.
 - A practical approach for designing in the browser.
@@ -19,8 +19,9 @@ Responsive Design Workflow is available in paperback or as an e-book. The book i
 - [Order from Peachpit Press]
 - [Order from Barnes & Noble]
 
-## Resources & Errata 
+## Resources & Errata
 
-* [Chapter 1](http://www.example.com/resources/chapter1) 
-* [Chapter 2](http://www.example.com/resources/chapter2) 
+* [Chapter 1](http://www.example.com/resources/chapter1)
+* [Chapter 2](http://www.example.com/resources/chapter2)
 * [Chapter 3](http://www.example.com/resources/chapter3)
+* [Chapter 4](http://www.example.com/resources/chapter4)

@@ -28,9 +28,9 @@ h2 {
     padding-left: 1em;
 }
 
-p { 
-    margin: 1em; 
-} 
+p {
+    margin: 1em;
+}
 h1+p {
     background-color: #6e5278;
     color: #69d0f3;
@@ -41,4 +41,15 @@ h1+p {
 }
 h1+p+p::first-line {
     text-transform: uppercase;
+}
+.footer {
+  border-top: 1px solid #e5e5e5;
+  bottom: 0px;
+  min-width: 100%;
+}
+.footer p {
+  text-align: left;
+  padding-left: .10em;
+  position: relative;
+  white-space: nowrap;
 }
